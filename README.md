@@ -1,3 +1,3 @@
 # Leon-Template-One
-live demo
+Live Demo
 https://kimo-mo.github.io/Leon-Template-One/
